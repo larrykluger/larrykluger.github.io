@@ -124,7 +124,7 @@ $(async function () {
 
     let templates = [
         {
-            url:  "https://larrykluger.github.io/examples/templates/Field_Test",
+            url:  "https://larrykluger.github.io/DSExamples/examples/templates/Field_Test",
             name: "DevCenter example: Field Test",
             description:
                 "This DevCenter example template includes multiple types of fields.",
@@ -132,28 +132,28 @@ $(async function () {
             docChoice: "default",
         },
         {
-            url:  "https://larrykluger.github.io/examples/templates/docx_Credit_Card",
+            url:  "https://larrykluger.github.io/DSExamples/examples/templates/docx_Credit_Card",
             name: "DevCenter example: docx Credit Card",
             description: "",
             templateId: null,
             docChoice: "docxDoc",
         },
         {
-            url:  "https://larrykluger.github.io/examples/templates/PDF_Credit_Card",
+            url:  "https://larrykluger.github.io/DSExamples/examples/templates/PDF_Credit_Card",
             name: "DevCenter example: PDF Credit Card",
             description: "",
             templateId: null,
             docChoice: "pdfDoc",
         },
         {
-            url:  "https://larrykluger.github.io/examples/templates/Approve_Decline",
+            url:  "https://larrykluger.github.io/DSExamples/examples/templates/Approve_Decline",
             name: "DevCenter example: Approve Decline",
             description: "",
             templateId: null,
             docChoice: "approveDecline",
         },
         {
-            url:  "https://larrykluger.github.io/examples/templates/51_page_document",
+            url:  "https://larrykluger.github.io/DSExamples/examples/templates/51_page_document",
             name: "DevCenter example: 51 page document",
             description: "",
             templateId: null,
