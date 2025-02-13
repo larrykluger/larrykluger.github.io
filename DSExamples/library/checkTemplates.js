@@ -19,7 +19,7 @@ const templates = [
 
 /*
  * CheckTemplates looks up the needed templates in the
- * default account. If they're there, then the templateIds are
+ * current account. If they're there, then the templateIds are
  * looked up. If the templates aren't there, then they're uploaded.
  *
  * Nota Bena! This function is only needed to support
