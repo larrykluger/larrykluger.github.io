@@ -1,4 +1,8 @@
-# Docusign Embedded Signing Examples
+# Docusign Embedded Signing Examples by Larry Kluger
+
+***These examples are based on [examples from Docusign](https://github.com/docusign/docusign.github.io/tree/master/app-examples).***
+
+***These examples are by Larry Kluger***
 
 ## Introduction
 This application enables developers to test the multiple styles of Docusign signing ceremonies that 
@@ -7,13 +11,11 @@ can be embedded in web and mobile applications. The four styles are:
 signed front and center for the signer. Focused View is designed to be embedded in a web application.
 * **Click to Agree** is a Clickwrap *agreement ceremony*. It enables the user to agree with (not sign) a
 document. The agreement can include one or more supplemental documents. An optional ERSD can be included too.
-* **Docusign.js with Default View** uses the classic embedded signing UX with the developer-friendly 
-benefits (see below) of docusign.js.
 * **Classic Embedded Signing** is the most powerful Docusign signing ceremony. It can be used with all 
 types of Docusign signatures (SES, AES, QES), and with all types of Docusign IDV authentication options.
 
 ## Limitations
-Each of the four tabs for the signing examples includes an **Information** button. Use the 
+Each of the tabs for the signing examples includes an **Information** button. Use the 
 Information button to see the known limitations, if any, for that style of signing. 
 
 ## Top Navigation Bar Items
@@ -134,9 +136,9 @@ Service to add your company information to bug report C2A-3499.
 
 # Source
 The source for this example is in the 
-[/embedded-signing](https://github.com/docusign/docusign.github.io/tree/master/app-examples/embedded-signing) 
+[/embedded-signing](https://github.com/larrykluger/larrykluger.github.io/tree/master/DSExamples/embedded-signing) 
 and in the 
-[/library](https://github.com/docusign/docusign.github.io/tree/master/app-examples/library)
+[/library](https://github.com/larrykluger/larrykluger.github.io/tree/master/DSExamples/library)
 directories
 
 
